@@ -1,0 +1,19 @@
+{
+  "name": "mern-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longnguyendr/mern_frontend.git"
+  },
+  "author": "Long Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longnguyendr/mern_frontend/issues"
+  },
+  "homepage": "https://github.com/longnguyendr/mern_frontend#readme"
+}
